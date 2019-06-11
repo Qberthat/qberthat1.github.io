@@ -1,2 +1,3 @@
 name: Quentin Berthat, Software Dev Apprentice
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
